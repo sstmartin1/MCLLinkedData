@@ -1,0 +1,9 @@
+{
+    "label": "New Books Test",
+    "description": "New Books Test”,
+    "isbns": [
+      "9781984853844",
+      "9781982160135",
+      "9781982148348"                    
+    ]
+}
