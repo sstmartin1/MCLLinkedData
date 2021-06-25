@@ -1,0 +1,23 @@
+{
+    "label": "Book Club Books",
+  "description": "Book Club Books",
+    "list": [
+{
+	"label": "Where the Crawdad's Sing",
+	"isbns": [
+      "9780735219090 ",
+      "9780735219113",
+      "9780735219113",
+	  "9780525640370",
+	  "9781984827616"
+	]
+},
+{
+	"label": "Gone Girl",
+	"isbns": [
+	  "9780307990419",
+	  "9781410450951"
+	]
+}
+    ]
+}
